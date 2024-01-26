@@ -1,4 +1,4 @@
-package FunctionInterface2;
+package functionInterface2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package Comparator1;
-
-import java.time.LocalDate;
+package comparator1;
 
 public class Employee {
     Long id;

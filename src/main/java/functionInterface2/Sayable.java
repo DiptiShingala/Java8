@@ -1,4 +1,4 @@
-package FunctionInterface2;
+package functionInterface2;
 
 public interface Sayable {
     void say(String msg);

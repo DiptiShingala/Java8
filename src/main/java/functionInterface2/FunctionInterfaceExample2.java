@@ -1,6 +1,6 @@
-package FunctionInterface2;
+package functionInterface2;
 
-import FunctionInterface.Sayable;
+import functionInterface.Sayable;
 
 public class FunctionInterfaceExample2 implements Sayable {
     @Override

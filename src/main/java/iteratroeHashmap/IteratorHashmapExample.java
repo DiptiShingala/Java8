@@ -1,16 +1,16 @@
-package IteratroeHashmap;
+package iteratroeHashmap;
 
 import java.util.HashMap;
 import java.util.Map;
 
 public class IteratorHashmapExample {
     public static void main(String[] args) {
-        HashMap<Integer,String> map = new HashMap<>();
+        Map<Integer,String> map = new HashMap<>();
         map.put(1,"Megha");
-        map.put(2,"Heena");
+        map.put(2,null);
         map.put(3,"Dipti");
-        map.put(4,"Rakesh");
-        map.put(5,"Naresh");
+        map.put(4,null);
+        map.put(null,"Megha");
         map.put(6,"Dolly");
         System.out.println(map);
         HashMap<Integer,String> map1 = new HashMap<>();
